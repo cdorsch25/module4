@@ -6,7 +6,7 @@ background-color: white;
 
 body {
   background-image: url('../myimages/birds.jpg');
-  
+  /*  background-position: right top; */
 }
 
 h1   {
@@ -28,4 +28,4 @@ p   {
 	background-color: white;
 }
 
-.importantstuff  {color: #0a125d;) */   this will make the big headers navy for some changes;  */
+.importantstuff  {color: #0a125d;)
